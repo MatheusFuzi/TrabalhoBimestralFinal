@@ -8,7 +8,7 @@
   - A instrução Throws serve para autorizar uma classe ou método a estourar exceções de determinado tipo. Ou seja, ele quem autoriza uma classe ou método chamar o throw, explicado na primeira pergunta.
 4. Considere uma classe Calculator. Esta classe deve ser abstrata e implementar as operações básicas (sum, subtraction, division e multiplication). Utilizando o conceito de herança crie uma Calculadora Científica que implemente os seguintes cálculos: raiz quadrada e a potência. use a classe Math do pacote java.lang. 
 
- - [Resposta](trab4bim/Calculator/src/main/java/br/com/unipar/calculator/)
+ [Resposta](trab4bim/Calculator/src/main/java/br/com/unipar/calculator/)
  
 5. 5) Considere uma classe chamada BankingAccount, e duas classes filhas desta, CheckingAccount e SavingsAccount. 
 BankingAccount -> Conta 
@@ -54,7 +54,7 @@ Neste construtor, inicialize todas as posições do array criando ALEATORIAMENTE
 • Imprima todos os aniversários dos amigos presentes na agenda. 
 • Imprima todos os e-mails dos conhecidos armazenados na agenda.
 
- -[Resposta parcial](trab4bim/Person/src/main/java/br/com/unipar/person/)
+ [Resposta parcial](trab4bim/Person/src/main/java/br/com/unipar/person/)
  
  11. 11) Crie uma classe abstrata Conta Bancaria que contém como atributos o numero da conta e o saldo, e como métodos abstratos sacar e depositar que recebem um parâmetro do tipo double 
 12) Crie as classes Conta Corrente e Conta Poupança que herdam da Conta Bancaria. A primeira possui um atributo taxaDeOperação que é descontado sempre que um saque e um depósito são feitos. A segunda possui um atributo limite que dá crédito a mais para o correntista caso ele precise sacar mais que o saldo. Neste caso, o saldo pode ficar negativo desde que não ultrapasse o limite. Contudo isso não pode acontecer na classe Conta Poupanca. 
@@ -78,4 +78,5 @@ b) Sacar: recebe um valor e tenta sacar da conta.
 c) Transferir: recebe um valor e o número de outra conta. Caso a conta exista, transfere o valor de uma conta para a outra. Caso contrário, informar mensagem de conta inexistente. 
 d) Gerar relatório: mostra os dados da conta selecionada. 
 e) Retornar ao menu anterior: exibe o menu anterior (opções 1 a 5). 
- -[Resposta Parcial](trab4bim/BankAccount/src/main/java/br/com/unipar/bankaccount/)
+ 
+ [Resposta Parcial](trab4bim/BankAccount/src/main/java/br/com/unipar/bankaccount/)
