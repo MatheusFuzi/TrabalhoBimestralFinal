@@ -1,4 +1,7 @@
-# TrabalhoBimestralFinal
+###Matheus Fuzi e Matheus Marques
+###00212010 e 00209260
+
+#TrabalhoBimestralFinal
 
 1. O que é e para que serve o throw no Java? 
  - O Throw em java serve para estourar exceptions. Quando se deseja tratar uma determinada atividade ou rotina para que, ao estourar algum erro no sistema, ao invés dele parar completamente, somente paralisar, avisar o usuário e retornar de onde paralisou em java utilizamos o throw como instrução para tal ação.
