@@ -7,4 +7,4 @@
 3. Quando devemos usar o throws? Qual a sua finalidade? 
   - A instrução Throws serve para autorizar uma classe ou método a estourar exceções de determinado tipo. Ou seja, ele quem autoriza uma classe ou método chamar o throw, explicado na primeira pergunta.
 4. Considere uma classe Calculator. Esta classe deve ser abstrata e implementar as operações básicas (sum, subtraction, division e multiplication). Utilizando o conceito de herança crie uma Calculadora Científica que implemente os seguintes cálculos: raiz quadrada e a potência. use a classe Math do pacote java.lang. 
- - [Resposta](TrabalhoBimestralFinal/trab4bim/Calculator/src/main/java/br/com/unipar/calculator/)
+ - [Resposta](trab4bim/Calculator/src/main/java/br/com/unipar/calculator/)
